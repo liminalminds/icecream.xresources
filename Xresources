@@ -1,0 +1,35 @@
+!-------------------------------------------------------------!
+! file: Xresources                                            !
+! descrption: Icecream Color Scheme for X                     !
+! author: Liminal Minds <liminalminds@protonmail.com>         !
+! license: MIT                                                !
+! source: https://github.com/liminalminds/icecream.xresources !
+! last modified: 13 Oct 2023                                  !
+!-------------------------------------------------------------!
+
+URxvt.background:       #000000
+URxvt.foreground:       #C279CF
+
+URxvt.color0:           #000000
+URxvt.color8:           #696969
+
+URxvt.color1:           #FE435B
+URxvt.color9:           #FF78C6
+
+URxvt.color2:           #F00359
+URxvt.color10:          #BF2E76
+
+URxvt.color3:           #FDBA21
+URxvt.color11:          #E6EB55
+
+URxvt.color4:           #3545A1
+URxvt.color12:          #206BC4
+
+URxvt.color5:           #23855D
+URxvt.color13:          #4EEF76
+
+URxvt.color6:           #583C6F
+URxvt.color14:          #C279CF
+
+URxvt.color7:           #9387C0
+URxvt.color15:          #E4E4E4
